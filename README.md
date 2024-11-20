@@ -10,7 +10,7 @@ Este e-book de 8 páginas apresenta a historia do jogo League of Legends e tambe
 -Ferramenta Microsoft Office para edição.
 
 ## 🧐 Processo de Criação
-Utilizeio o Chatgpt para criação do e-book, em seguida utilizei o Leonardo IA para criar a capa do e-book e por fim usei o word da microsoft para juntar a imagem e o texte e assim criar o e-book.
+Utilizeio o Chatgpt para criação do e-book, em seguida utilizei o Leonardo IA para criar a capa do e-book e por fim usei o word da microsoft para juntar a imagem e o texto para criar o e-book.
 
 ## 🚀 Resultados
 [League of Legends História do maior jogador do mundo FAKER.docx](https://github.com/user-attachments/files/17837992/League.of.Legends.Historia.do.maior.jogador.do.mundo.FAKER.docx)
