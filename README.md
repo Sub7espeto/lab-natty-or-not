@@ -1,7 +1,7 @@
 League of Legends: História e o maior jogador do mundo "FAKER"
 
 ## 📒 Descrição
-Este e-book de 8 páginas apresenta a historia do jogo League of Legends e tambem deo maior jogador de todos os tempos "FAKER".
+Este e-book de 10 páginas apresenta a historia do jogo League of Legends e tambem do maior jogador de todos os tempos "FAKER".
 
 ## 🤖 Tecnologias Utilizadas
 
