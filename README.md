@@ -1,16 +1,19 @@
-# Título do Projeto Extremamente Aesthetic ;)
+League of Legends: História e o maior jogador do mundo "FAKER"
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este e-book de 8 páginas apresenta a historia do jogo League of Legends e tambem deo maior jogador de todos os tempos "FAKER".
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+-IA Generativa ChatGPT para roteirização;
+-IA Generativa Leonardo AI para criar a arte visual do e-book;
+-Ferramenta Microsoft Office para edição.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizeio o Chatgpt para criação do e-book, em seguida utilizei o Leonardo IA para criar a capa do e-book e por fim usei o word da microsoft para juntar a imagem e o texte e assim criar o e-book.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[League of Legends História do maior jogador do mundo FAKER.docx](https://github.com/user-attachments/files/17837992/League.of.Legends.Historia.do.maior.jogador.do.mundo.FAKER.docx)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Criar o e-book foi uma experiência nova e diferente, a utilização de IA facilitou muito no ganho de tempo para a entrega do trabalho.
